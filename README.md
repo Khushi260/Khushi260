@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on my portfolio website. 
+- 🔭 I’m currently working on building short projects. 
 - 🌱 I’m currently learning Javascript. 
 - 📫 How to reach me **khushi26jha@gmail.com**
 
