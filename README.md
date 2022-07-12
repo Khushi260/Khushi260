@@ -24,3 +24,6 @@
 ![Profile views](https://gpvc.arturio.dev/khushi260)  
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/khushi26jha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khushi26jha" /></a></p><br><br>
+
+
+[![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushi260)](https://github.com/khushi260/github-readme-stats)
