@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **some awesome projects**
 
-- 💬 Ask me about ** Javascript**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **khushi26jha@gmail.com**
 
